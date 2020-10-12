@@ -1,0 +1,14 @@
+name: item2item
+channels:
+- pytorch
+- conda-forge
+dependencies:
+- pandas
+- requests
+- scikit-learn
+- pytorch
+- torchvision
+- cudatoolkit=10.2
+- pip
+- pip:
+    - implicit
