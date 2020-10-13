@@ -1,8 +1,8 @@
 # Debiasing Item-to-Item Recommendations With Small Annotated Datasets
 This is the code for our RecSys '20 paper. Other materials can be found here:
 
- - [Full paper (pdf)](PAPER)
- - [Slides (pdf)](SLIDES)
+ - [Full paper (pdf)](https://www.microsoft.com/en-us/research/uploads/prod/2020/10/debiasing_item2item.pdf)
+ - [Slides (pdf)](https://www.microsoft.com/en-us/research/uploads/prod/2020/10/item2item_presentation.pdf)
 
 ## Setup
 This assumes that you have a recent Anaconda distribution of Python 3 installed. To install the dependencies, 
